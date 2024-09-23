@@ -1,4 +1,4 @@
-### Decision Tree Classifier
+## Decision Tree Classifier
 
 This project demonstrates the implementation of a Decision Tree Classifier using Python. It showcases how to train a model on a dataset and make predictions, along with performance evaluation.
 
