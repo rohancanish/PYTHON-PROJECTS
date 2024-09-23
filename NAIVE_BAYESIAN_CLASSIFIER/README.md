@@ -29,7 +29,9 @@ The Naive Bayesian Classifier is a simple yet powerful classification algorithm 
 
 To run this project, you need to have Python and the required libraries installed. You can install the necessary libraries using pip:
 
-```bash
+```bash### Notes:
+- Make sure the links and commands match your actual project structure and setup.
+- You can further customize the content based on any specific details you want to highlight.
 pip install numpy pandas scikit-learn
 ```
 
@@ -67,8 +69,6 @@ The classifier achieved an accuracy of **1.0** on the test set, indicating perfe
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
 
-### Notes:
-- Make sure the links and commands match your actual project structure and setup.
-- You can further customize the content based on any specific details you want to highlight.
+
+
