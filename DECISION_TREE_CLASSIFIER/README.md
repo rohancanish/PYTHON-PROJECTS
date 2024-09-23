@@ -1,4 +1,4 @@
-# Decision Tree Classifier
+### Decision Tree Classifier
 
 This project demonstrates the implementation of a Decision Tree Classifier using Python. It showcases how to train a model on a dataset and make predictions, along with performance evaluation.
 
@@ -52,4 +52,6 @@ Contributions are welcome! If you would like to contribute to this repository, p
 
 ## License
 
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+```
+
